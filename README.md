@@ -6,6 +6,8 @@ An Instagram-style News Recommendation Andriod App
 
 <img src="assets/newsdemo.gif" width="450" height="450"/>
 
+<img src="assets/news_demo.gif" width="450" height="450"/>
+
 - Home fragment - click the like button or swipe the card right to save news. And click the dislike or swipe the card left to view the next one.
 - Saved fragment - view the saved news detail at Save fragment. Click the delete button to remove it from local storage.
 - Search fragment - use this one to search the keyword of news you like.
@@ -55,7 +57,7 @@ Here are the steps to implement a RecyclerView:
 
 ## Jetpack Navigation
 
-Jetpack Navigation Component: [Official Getting Started](https://developer.android.com/guide/navigation) and
+Jetpack Navigation Component: [Navigation](https://developer.android.com/guide/navigation) and
 [Documentation](https://developer.android.com/jetpack/androidx/releases/navigation). Single activity paradigm with multiple
 fragments. Page navigation and app flow is controlled in one place, a navigation graph. The benefits are:
 - Declarative visual screen flow and navigation all in one.

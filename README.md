@@ -82,4 +82,4 @@ The advantage of Room:
 
 Repository Integration: How does the database work with the rest of the MVVM architecture?
 
-<img src="app/assets/room2.png" alt="structure" width="510" height="600"/>
+<img src="app/assets/room2.png" alt="structure" width="510" height="500"/>

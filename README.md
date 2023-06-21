@@ -4,6 +4,7 @@ An Instagram-style News Recommendation Andriod App
 
 ## App Demo
 
+<img src="assets/newsdemo.gif" width="50%" height="50%"/>
 
 - In Home fragment, click the like button or swipe the card right to save news. And click the dislike or swipe the card left to view the next one.
 - View the saved news detail at Save fragment. Click the delete button to remove it from local storage.
@@ -28,7 +29,7 @@ The architecture of this project is as follows:
 This project creates the network layer with Retrofit and its underlying OkHttp. The Retrofit are RESTful API setup on Android.
 I use Gson to deserialize the model. Retrofit instantiates the interface into the actual implementation.
 
-### NewsAPI
+## NewsAPI
 
 The source of the news is from [https://newsapi.org/](https://newsapi.org/). The RESTful APIs provide many different query parameters, this project mainly use two endpoints:
 - https://newsapi.org/v2/everything

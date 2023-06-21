@@ -4,7 +4,7 @@ An Instagram-style News Recommendation Andriod App
 
 ## App Demo
 
-<img src="assets/newsdemo.gif" width="450" height="450"/>
+<img src="app/assets/newsdemo.gif" width="450" height="450"/>
 
 <img src="assets/news_demo.gif" width="450" height="450"/>
 

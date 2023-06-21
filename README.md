@@ -55,7 +55,7 @@ Here are the steps to implement a RecyclerView:
 
 ## Jetpack Navigation
 
-Jetpack Navigation Component: [Official Getting Started](developer.android.com/guide/navigation/navigation-getting-started) and
+Jetpack Navigation Component: [Official Getting Started](https://developer.android.com/guide/navigation) and
 [Documentation](https://developer.android.com/jetpack/androidx/releases/navigation). Single activity paradigm with multiple
 fragments. Page navigation and app flow is controlled in one place, a navigation graph. The benefits are:
 - Declarative visual screen flow and navigation all in one.

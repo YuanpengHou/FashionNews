@@ -4,7 +4,7 @@ An Instagram-style News Recommendation Andriod App
 
 ## App Demo
 
-<img src="app/assets/news_demo.gif" width="450"/>
+<img src="app/assets/news_demo.gif" width="400"/>
 
 - Home fragment - click the like button or swipe the card right to save news. And click the dislike or swipe the card left to view the next one.
 - Saved fragment - view the saved news detail at Save fragment. Click the delete button to remove it from local storage.
@@ -22,7 +22,7 @@ Model - View - ViewModel (MVVM) is the industry-recognized software architecture
 
 The architecture of this project is as follows:
 
-<img src="app/assets/MVVM.png" alt="structure" width="450"/>
+<img src="app/assets/MVVM.png" alt="structure" width="400"/>
 
 ## Retrofit
 
@@ -64,7 +64,7 @@ fragments. Page navigation and app flow is controlled in one place, a navigation
 
 The navigation graph of fragments are as follows:
 
-<img src="app/assets/Navigation.png" alt="ERD" width="700"/>
+<img src="app/assets/Navigation.png" alt="ERD" width="500"/>
 
 ## Room Database
 
@@ -78,9 +78,9 @@ The advantage of Room:
 - App need to support offline mode.
 - App consume both network and local generated structure data.
 
-<img src="app/assets/room0.png" alt="structure" width="450"/>
+<img src="app/assets/room0.png" alt="structure" width="500"/>
 <img src="app/assets/room1.png" alt="structure" width="450"/>
 
 Repository Integration: How does the database work with the rest of the MVVM architecture?
 
-<img src="app/assets/room2.png" alt="structure" width="450"/>
+<img src="app/assets/room2.png" alt="structure" width="500"/>

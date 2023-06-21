@@ -15,8 +15,8 @@ An Instagram-style News Recommendation Andriod App
 Model - View - ViewModel (MVVM) is the industry-recognized software architecture pattern that overcomes all drawbacks of MVP and MVC design patterns. MVVM suggests separating the data presentation logic(Views or UI) from the core business logic part of the application. The separate code layers of MVVM are:
 
 - The View - is the collection of visible elements, which also receives user input. This includes user interfaces (UI), animations and text. The content of View is not interacted with directly to change what is presented.
-- The ViewModel - is located between the View and Model layers. This is where the controls for interacting with View are housed, while binding is used to connect the UI elements in View to the controls in ViewModel.
-- The DataModel - is responsible for the abstraction of the data sources. Model and ViewModel work together to get and save the data.
+- The ViewModel -- is located between the View and Model layers. This is where the controls for interacting with View are housed, while binding is used to connect the UI elements in View to the controls in ViewModel.
+- The DataModel — is responsible for the abstraction of the data sources. Model and ViewModel work together to get and save the data.
 
 <img src="assets/mvvm0.png" alt="structure" width="450"/>
 

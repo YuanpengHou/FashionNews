@@ -4,7 +4,7 @@ An Instagram-style News Recommendation Andriod App
 
 ## App Demo
 
-<img src="assets/newsdemo.gif" width="50%" height="50%"/>
+<img src="assets/newsdemo.gif" width="450" height="450"/>
 
 - In Home fragment, click the like button or swipe the card right to save news. And click the dislike or swipe the card left to view the next one.
 - View the saved news detail at Save fragment. Click the delete button to remove it from local storage.
@@ -18,7 +18,7 @@ The main players in the MVVM pattern are:
 - The ViewModel — is located between the View and Model layers. This is where the controls for interacting with View are housed, while binding is used to connect the UI elements in View to the controls in ViewModel.
 - The DataModel — is responsible for the abstraction of the data sources. Model and ViewModel work together to get and save the data.
 
-<img src="assets/mvvm0.png" width="450"/>
+<img src="assets/mvvm0.png" alt="structure" width="450"/>
 
 The architecture of this project is as follows:
 

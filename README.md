@@ -4,7 +4,7 @@ An Instagram-style News Recommendation Andriod App
 
 ## App Demo
 
-<img src="assets/newsdemo.gif" width="50%" height="50%"/>
+<img src="assets/newsdemo.gif" width="450" height="450"/>
 
 - In Home fragment, click the like button or swipe the card right to save news. And click the dislike or swipe the card left to view the next one.
 - View the saved news detail at Save fragment. Click the delete button to remove it from local storage.
